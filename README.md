@@ -1,6 +1,12 @@
 # README
 
-Library-WEB adalah sebuah aplikasi front-end yang dibangun dengan framework React. Aplikasi ini dikembangkan untuk membantu manajemen perpustakaan..
+Library-WEB adalah sebuah aplikasi front-end yang dibangun dengan framework React. Aplikasi ini dikembangkan untuk membantu manajemen perpustakaan.
+
+## Previews
+
+![Screenshot 1](./docs/screenshot_1.png)
+
+![Screenshot 1](./docs/screenshot_2.png)
 
 
 ## Cara Pemakaian
